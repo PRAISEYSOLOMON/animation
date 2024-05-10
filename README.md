@@ -322,13 +322,13 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 
-![WhatsApp Image 2024-05-10 at 20 21 58_6f865dab](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/30cf2a3a-8c9e-4c8e-a9b9-041731b31123)
+![image](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/64ab9ea7-0054-4b91-8f19-44e09a1a7049)
 
-![WhatsApp Image 2024-05-10 at 20 21 58_27fa0a81](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/057be1c2-65b8-42ba-b729-196fd1f8e7f3)
+![image](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/892cd27b-c7a6-4a52-9c1f-622622a4e9c8)
 
-![WhatsApp Image 2024-05-10 at 20 21 59_5a9b2bda](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/73a358cd-8e91-4f75-a314-26d620e6b44e)
+![image](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/a778c40d-bd25-4ded-ae13-14bd94c999d8)
 
-![WhatsApp Image 2024-05-10 at 20 21 59_3c9ab40b](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/0d44d3c5-bce5-41b2-aa0f-ed50044b78c4)
+![image](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/6551903f-b6c8-4435-94ce-535080bafcb8)
 
 
 ## RESULT
