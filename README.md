@@ -321,6 +321,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+
 ![WhatsApp Image 2024-05-10 at 20 21 58_6f865dab](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/30cf2a3a-8c9e-4c8e-a9b9-041731b31123)
 
 ![WhatsApp Image 2024-05-10 at 20 21 58_27fa0a81](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/057be1c2-65b8-42ba-b729-196fd1f8e7f3)
@@ -329,6 +330,8 @@ public class MainActivity extends AppCompatActivity {
 
 ![WhatsApp Image 2024-05-10 at 20 21 59_3c9ab40b](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/0d44d3c5-bce5-41b2-aa0f-ed50044b78c4)
 
-## RESULT
 
+## RESULT
+```
 Thus a Android Application to create and add animations to ImageView like Move,blink,fade,clockwise,zoom,slide operations are done and performed in Android Studio and executed successfully.
+```
