@@ -11,7 +11,21 @@ Android Studio(Latest Version)
 
 ## ALGORITHM:
 
+Step 1: Open Android Stdio and then click on File -> New -> New project.
 
+Step 2: Then type the Application name as calculator and click Next.
+
+Step 3: Then select the Minimum SDK as shown below and click Next.
+
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+
+Step 5: Design layout using UI components in activity_main.xml.
+
+Step 6: Design xml files for all operations such as blink, rotate, move, slide, zoom, fade.
+
+Step 6: Display the button operations in MainActivity file.
+
+Step 7: Save and run the application
 
 ## PROGRAM:
 ```
@@ -307,7 +321,14 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+![WhatsApp Image 2024-05-10 at 20 21 58_6f865dab](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/30cf2a3a-8c9e-4c8e-a9b9-041731b31123)
 
+![WhatsApp Image 2024-05-10 at 20 21 58_27fa0a81](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/057be1c2-65b8-42ba-b729-196fd1f8e7f3)
 
+![WhatsApp Image 2024-05-10 at 20 21 59_5a9b2bda](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/73a358cd-8e91-4f75-a314-26d620e6b44e)
+
+![WhatsApp Image 2024-05-10 at 20 21 59_3c9ab40b](https://github.com/PRAISEYSOLOMON/animation/assets/119394259/0d44d3c5-bce5-41b2-aa0f-ed50044b78c4)
 
 ## RESULT
+
+Thus a Android Application to create and add animations to ImageView like Move,blink,fade,clockwise,zoom,slide operations are done and performed in Android Studio and executed successfully.
